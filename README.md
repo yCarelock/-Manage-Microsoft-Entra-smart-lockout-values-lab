@@ -64,8 +64,6 @@ Navigate to the directory containing password_generator.py.
 
 Run the script by typing: python password_generator.py
 
-Here's the output I got 
-
-<img src="https://imgur.com/a/BDZjxWb"/>
-<br />
-<br />
+Here's the output I got
+![2025-04-09 20_31_11-password_generator py - Visual Studio Code](https://github.com/user-attachments/assets/122698b6-1404-4fe0-a504-7a59b80aff59)
+Every time you run the script, a new secure, random password will be generated.
